@@ -1,0 +1,12 @@
+__v,_id,date,msg,room,username
+0,6246928ff8e5612f8bbc38cf,2022-04-01T05:50:07.739Z,Hello Adam ,Python,Nathan
+0,62469297f8e5612f8bbc38d1,2022-04-01T05:50:15.225Z,Hello Nathan,Python,Adam
+0,6246be08113d6218cceb86cc,2022-04-01T08:55:36.019Z,hello nathan,JavaScript,Jeremy
+0,6246be0e113d6218cceb86ce,2022-04-01T08:55:42.358Z,Hello Jeremy,JavaScript,Nathan
+0,6247380393bb8162f7495e3f,2022-04-01T17:36:03.251Z,Hello Adam,PHP,Smith
+0,6247382893bb8162f7495e42,2022-04-01T17:36:40.271Z,Hello everyone,PHP,Jennifer
+0,624738a393bb8162f7495e46,2022-04-01T17:38:43.184Z,Anyone here?,Ruby,Jasmine
+0,6247397f93bb8162f7495e49,2022-04-01T17:42:23.794Z,Yeah,Ruby,dasmel
+0,6247398293bb8162f7495e4b,2022-04-01T17:42:26.288Z,Hello there,Ruby,dasmel
+0,62473a4f93bb8162f7495e4f,2022-04-01T17:45:51.561Z,yesterday was nice,Ruby,dasmel
+0,62473a5893bb8162f7495e51,2022-04-01T17:46:00.052Z,Yeah it was,Ruby,Jasmine
